@@ -1,6 +1,7 @@
 # 255_DimensionalityReduction
 
 COLAB LINK: https://colab.research.google.com/drive/1tLi2SWX3jatB6kf-8oab1U5hHEofPRR5#scrollTo=cXhbRReyWmDj
+
 VIDEO LINK: 
 
 Write a colab to demonstrate various dimensionality reduction techniques discussed in the class (and some not discussed)

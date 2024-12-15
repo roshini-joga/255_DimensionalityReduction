@@ -2,7 +2,7 @@
 
 COLAB LINK: https://colab.research.google.com/drive/1tLi2SWX3jatB6kf-8oab1U5hHEofPRR5#scrollTo=cXhbRReyWmDj
 
-VIDEO LINK: 
+VIDEO LINK: https://drive.google.com/file/d/10ocO6ZJv7Er_HG2I9RR481mQxLZu2u4D/view?usp=sharing
 
 Write a colab to demonstrate various dimensionality reduction techniques discussed in the class (and some not discussed)
 
